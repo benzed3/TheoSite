@@ -20,3 +20,11 @@ h1 {
     font-family: 'League Gothic', sans-serif;
     letter-spacing: 5px;
 }
+
+/*styling for articles*/
+
+#article {
+    background: white;
+    padding: 0;
+    width: 75%;
+}
